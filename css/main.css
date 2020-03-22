@@ -8,6 +8,8 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     float:right;
+    background-color: black;
+    color: white;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,7 +23,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
