@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: Benjamin Morgan
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /project/:year/:month/:day/:title
