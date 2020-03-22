@@ -7,7 +7,7 @@ body {
     overflow: hidden;
 }
 
-nav ul, footer ul {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -15,14 +15,31 @@ nav ul, footer ul {
     /* float:right; */
     background-color: black;
     color: white;
-    font-size: 3em;
+    font-size: 2em;
 }
+
+footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    /* float:right; */
+    background-color: black;
+    color: white;
+    font-size: 1em;
+}
+
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     background-color: black;
     color: white;
 }
+
+
+
+
 a {
     text-decoration: none;
     /* color: #999; */
