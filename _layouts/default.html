@@ -1,24 +1,27 @@
----
-#Add "layout: compress" here to compress the html code
----
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
-{% include head.html %}
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<div class = "topnav">
+			<ul>
+				<li><a href="/">Benjamin Morgan</a></li>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/projects">Projects</a></li>
+				<li><a href="/pdfs/Benjamin Morgan -- Resume.pdf">Résumé</a></li>
+			</ul>
+		</div>		
 
-<body>
-  <div class="wrapper">
-    {% include sidebar.html %}
-
-    <div class="main-wrapper">
-        {{ content }}
-    </div>
-  </div>
-
-  {% include footer.html %}
-
-{% include scripts.html %}
-</body>
-
+		<div class="container">
+    		{{ content }}
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:bdmorgan@uchicago.edu">email</a></li>
+        		<li><a href="https://github.com/bmorgan0921">github.com/bmorgan0921</a></li>
+			</ul>
+		</footer>
+	</body>
 </html>
