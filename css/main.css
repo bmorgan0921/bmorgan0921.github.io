@@ -6,7 +6,7 @@ body {
 .navbar-brand {
     background-color: black;
     overflow:auto;
-    display:inline;
+    display:inline-block;
     width:100%;
 }
 
