@@ -6,6 +6,7 @@ body {
 .navbar-brand {
     background-color: black;
     overflow:auto;
+    display:inline;
 }
 
 nav ul {
