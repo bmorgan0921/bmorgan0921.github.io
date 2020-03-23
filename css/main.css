@@ -4,8 +4,6 @@ body {
 }
 .navbar-brand {
     background-color: black;
-    overflow: hidden;
-    display:flex;
 }
 
 nav ul {
