@@ -5,4 +5,4 @@ div.c1 section ul li.c2 a { color:black; }
 .topnav ul li.name { display: inline; color: white; text-align: left;}
 .topnav ul li.section { display: inline; color: white; text-align: right;}
 .topnav ul li a {color:white; text-decoration: none;}
-.topnav-container { color:red;}
+.nav { color:red;}
