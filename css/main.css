@@ -38,7 +38,9 @@ nav ul li, footer ul li {
     color: white;
 }
 
-
+section.education {
+    color: red;
+}
 
 
 a {
