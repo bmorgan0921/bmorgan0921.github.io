@@ -1,9 +1,9 @@
 div.c1 section ul li.c2 { color:black; }
 div.c1 section ul li.c2 a { color:black; }
 .link { color:black; text-decoration: none; background-color: none;}
-.topnav { background-color: black; overflow: hidden;}
-.topnav ul li.name { display: inline; color: white; text-align: left;}
-.topnav ul li.section { display: inline; color: white; text-align: right;}
-.topnav ul li a {color:white; text-decoration: none;}
+.topnav { background-color: white; overflow: hidden;}
+.topnav ul li.name { display: inline; color: black; text-align: left;}
+.topnav ul li.section { display: inline; color: black; text-align: right;}
+.topnav ul li a {color:black; text-decoration: none;}
 .topnav ul { list-style: none; font-weight: bold;}
 .nav {padding: 0px; border-width: 0 0 1px; top:0;}
