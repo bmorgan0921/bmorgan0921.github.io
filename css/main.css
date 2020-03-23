@@ -33,6 +33,9 @@ footer ul {
     font-size: 10px;
 }
 
+.nav-bar-color {
+  color: purple;
+}
 
 nav ul li, footer ul li {
     margin-right: 20px;
