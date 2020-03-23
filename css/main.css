@@ -3,3 +3,4 @@ div.c1 section ul li.c2 a { color:black; }
 .link { color:black; text-decoration: none; background-color: none;}
 .topnav { background-color: black; overflow: hidden;}
 .topnav li { display: inline;}
+.topnav li a {color:white; text-decoration: none;}
