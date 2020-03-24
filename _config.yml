@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Photography](https://www.benjaminmorganphotography.smugmug.com/)
    - Sports: Auburn University and Atlanta Braves
    - Staying Active
-   - Currently Reading: <span style="color:black">[*Measure What Matters* by John Doerr](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)</span>
+   - Currently Reading: <font color = 'black'>[*Measure What Matters* by John Doerr](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)</font>
 
 # Footer
 footer_show_references: true
