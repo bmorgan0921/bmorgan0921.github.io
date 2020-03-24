@@ -7,11 +7,11 @@
   description: | # this will include new lines to allow paragraphs
     During my time at the University of Chicago, I learnt most 
 
-    Awards and Honors: Michael J. Steinbeck Graduate Fellowship Recipient
+    **Awards:** Michael J. Steinbeck Graduate Fellowship Recipient
 
     Vice-President summary here
 
-    Courses Completed: Regression Analysis & Quantitative Trading Strategies, Applied Algorithmic Trading, Analysis of Financial Time Series, Machine Learning, Computing for Finance in C++ & Python, High Performance Computing, Option Pricing, Numerical Methods, Foreign Exchange, Portfolio Theory & Risk Management, Stochastic Calculus, and Probability for Risk Management
+    **Courses Completed:** Regression Analysis & Quantitative Trading Strategies, Applied Algorithmic Trading, Analysis of Financial Time Series, Machine Learning, Computing for Finance in C++ & Python, High Performance Computing, Option Pricing, Numerical Methods, Foreign Exchange, Portfolio Theory & Risk Management, Stochastic Calculus, and Probability for Risk Management
 
 - layout: left
   name: Auburn University
@@ -23,7 +23,7 @@
   description: | # this will include new lines to allow paragraphs
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    Relevant Coursework: Financial Modeling, Investments, Financial Markets Institutions, and Security Analysis
+    **Relevant Coursework:** Financial Modeling, Investments, Financial Markets Institutions, and Security Analysis
 
 
 - layout: left
@@ -36,8 +36,8 @@
   description: | # this will include new lines to allow paragraphs
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-    Awards: Auburn University Presidential Scholarship, ADTRAN, Inc. Mark C. Smith Endowed Scholarship
+    **Awards:** Auburn University Presidential Scholarship, ADTRAN, Inc. Mark C. Smith Endowed Scholarship
 
-    Relevant Coursework: Neural Networks, Random Signal and Systems, Linear Signals and Systems Analysis, and Control Systems
+    **Relevant Coursework:** Neural Networks, Random Signal and Systems, Linear Signals and Systems Analysis, and Control Systems
     
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
