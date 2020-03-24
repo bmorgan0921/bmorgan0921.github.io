@@ -24,7 +24,7 @@ linkedin_username: BenjaminMorgan0921
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Benjamin and I am a recent grad from the University of Chicago looking to start my career in quantitative finance.
+  Hi, my name is Benjamin and I am a recent grad from the University of Chicago looking to start my career in quantitative finance. Below, you will find a more-detailed version of my résumé including my current and previous projects, professional experiences, education, and interests. 
 
   I am most skilled in: <mark>Python</mark>, <mark>Quantitative Modeling</mark>, and <mark>Creative Thinking</mark>
 
