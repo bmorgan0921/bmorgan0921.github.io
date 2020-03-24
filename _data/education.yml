@@ -5,11 +5,9 @@
   quote: >
     Established in 1890, the University of Chicago empowers scholars and students to ask tough questions, cross disciplinary boundaries, and challenge conventional thinking to enrich human life around the globe.
   description: | # this will include new lines to allow paragraphs
-    During my time at the University of Chicago, I learnt most 
+    During my time at the University of Chicago, I learnt most ..... Vice-President summary here
 
     **Awards:** Michael J. Steinbeck Graduate Fellowship Recipient
-
-    Vice-President summary here
 
     **Courses Completed:** Regression Analysis & Quantitative Trading Strategies, Applied Algorithmic Trading, Analysis of Financial Time Series, Machine Learning, Computing for Finance in C++ & Python, High Performance Computing, Option Pricing, Numerical Methods, Foreign Exchange, Portfolio Theory & Risk Management, Stochastic Calculus, and Probability for Risk Management
 
@@ -21,7 +19,7 @@
     I believe that this is a practical world and that I can count only on what I earn. Therefore, I believe in work, hard work. I believe in education, which gives me the knowledge to work wisely and trains my mind and my hands to work skillfully...
 
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Insert summary about finance program and FMA
 
     **Relevant Coursework:** Financial Modeling, Investments, Financial Markets Institutions, and Security Analysis
 
@@ -34,10 +32,10 @@
     ...I believe in my Country, because it is a land of freedom and because it is my own home, and that I can best serve that country by "doing justly, loving mercy, and walking humbly with my God." And because Auburn men and women believe in these things, I believe in Auburn and love it. -George Petrie (1943)
 
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Insert summary about electrical engineering program. 
 
     **Awards:** Auburn University Presidential Scholarship, ADTRAN, Inc. Mark C. Smith Endowed Scholarship
 
     **Relevant Coursework:** Neural Networks, Random Signal and Systems, Linear Signals and Systems Analysis, and Control Systems
     
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
