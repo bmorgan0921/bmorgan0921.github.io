@@ -15,7 +15,7 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    As fulfillment to complete the Quantitative Trading Strategies course, I worked with a partner to develop a trading strategy that utilizes fundamental, end-of-day, and sentimental data as inputs into a framework that averages the outputs of three machine learning models and attempts to predict next month's performance based on current month's performance. 
+    I worked with a partner to develop a trading strategy that utilizes fundamental, end-of-day, and sentimental data as inputs into a framework that averages the outputs of three machine learning models and attempts to predict next month's performance based on current month's performance. This project was completed as fulfillment to complete the Regression Analysis & Quantitative Trading Strategies course.  
 
 - layout: top-middle
   name: NCAA Basketball Predictive Model
