@@ -14,19 +14,6 @@
 - layout: left
   name: Auburn University
   dates: 2013-2018
-  qualification: BSc. Business Administration - Finance
-  quote: >
-    "I believe that this is a practical world and that I can count only on what I earn. Therefore, I believe in work, hard work. I believe in education, which gives me the knowledge to work wisely and trains my mind and my hands to work skillfully..."
-
-  description: | # this will include new lines to allow paragraphs
-    [Auburn's Financial Management Association](https://www.auburnfma.com) gave me an incredible foundation with introducing me to the finance industry. Some of the best opportunities that I was fortunate enough to be involved in included site visits to company headquarters, interacting with high-ranking management & executives, seminars, and career workshops. 
-    
-    **Relevant Coursework:** Financial Modeling, Investments, Financial Markets Institutions, and Security Analysis
-# FMA an incredible opportunity to represent Auburn University on site visits to company headquarters and interact with high-ranking management & executives. The many opportunities allowed me to develop and enhance my professional skills through mentor relationships, networking events, seminars, and career workshops. 
-
-- layout: left
-  name: Auburn University
-  dates: 2013-2018
   qualification: Bach. Electrical Engineering
   quote: >
     "...I believe in my Country, because it is a land of freedom and because it is my own home, and that I can best serve that country by "doing justly, loving mercy, and walking humbly with my God." And because Auburn men and women believe in these things, I believe in Auburn and love it." -George Petrie (1943)
@@ -37,5 +24,20 @@
     **Awards:** Auburn University Presidential Scholarship, ADTRAN, Inc. Mark C. Smith Endowed Scholarship
 
     **Relevant Coursework:** Neural Networks, Random Signal and Systems, Linear Signals and Systems Analysis, and Control Systems
+
+- layout: left
+  name: Auburn University
+  dates: 2013-2018
+  qualification: BSc. Business Administration - Finance
+  quote: >
+    "I believe that this is a practical world and that I can count only on what I earn. Therefore, I believe in work, hard work. I believe in education, which gives me the knowledge to work wisely and trains my mind and my hands to work skillfully..."
+
+  description: | # this will include new lines to allow paragraphs
+    [Auburn's Financial Management Association](https://www.auburnfma.com) gave me an incredible foundation with introducing me to the finance industry. Some of the best opportunities that I was fortunate enough to be involved in included site visits to company headquarters, interacting with high-ranking management & executives, seminars, and career workshops. 
+    
+    **Relevant Coursework:** Financial Modeling, Investments, Financial Markets Institutions, and Security Analysis
+# FMA an incredible opportunity to represent Auburn University on site visits to company headquarters and interact with high-ranking management & executives. The many opportunities allowed me to develop and enhance my professional skills through mentor relationships, networking events, seminars, and career workshops. 
+
+
     
   # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
