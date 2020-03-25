@@ -47,12 +47,8 @@ more_content: | # this will include new lines to allow paragraphs
    - Staying Active
 
 more_content: | # this will include new lines to allow paragraphs
-more_title: Skills
-  Alongside my interest in quantitative finance, some of my other interests and hobbies include
-   - [Photography](https://benjaminmorganphotography.smugmug.com/)
-   - Sports: Auburn University and Atlanta Braves
-   - Currently Reading: [*Measure What Matters* by John Doerr](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
-   - Staying Active   
+Alongside my interest in quantitative finance, some of my other interests and hobbies include
+
 
 # Footer
 footer_show_references: true
