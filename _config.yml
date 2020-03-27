@@ -47,6 +47,10 @@ more_content: | # this will include new lines to allow paragraphs
    - Currently Reading: [*Measure What Matters* by John Doerr](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
    - Staying Active
 
+  | First Header | Second Header | 
+  | ------------ | ------------- |
+  | Content Cell | Content Cell  | 
+
 # Footer
 footer_show_references: true
 
