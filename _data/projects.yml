@@ -1,4 +1,13 @@
 - layout: top-middle
+  name: Quantitative Trading Strategy Project
+  link: https://github.com/bmorgan0921/quantitative_trading_strategy_project
+  # github: sproogen/resume-theme
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    I worked with a partner to develop a trading strategy that utilizes fundamental, end-of-day, and sentimental data as inputs into a framework that averages the outputs of three machine learning models and attempts to predict next month's performance based on current month's performance. This project was completed as fulfillment to complete the Regression Analysis & Quantitative Trading Strategies course.  
+
+- layout: top-middle
   name: Spotify Recommendation Engine
   # link: github.com/sproogen
   # github: sproogen/resume-theme
@@ -7,15 +16,6 @@
   description: | # this will include new lines to allow paragraphs
     I started this project during the COVID-19 outbreak after sports disappeared and my friend mentioned that he didn't like the songs Spotify was recommending for him. The objective of this application is to use your listening history and machine learning techniques to make song recommendations and was developed using python. Where am I with this project right now? Currently, I am in the process of mobile development for this application. 
 
-
-- layout: top-middle
-  name: Quantitative Trading Project
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  # quote: >
-  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I worked with a partner to develop a trading strategy that utilizes fundamental, end-of-day, and sentimental data as inputs into a framework that averages the outputs of three machine learning models and attempts to predict next month's performance based on current month's performance. This project was completed as fulfillment to complete the Regression Analysis & Quantitative Trading Strategies course.  
 
 - layout: top-middle
   name: NCAA Basketball Predictive Model
