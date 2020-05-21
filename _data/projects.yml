@@ -25,3 +25,20 @@
   description: | # this will include new lines to allow paragraphs
     I started this project to make a competitive March Madness tournament bracket. The project is developed entirely in Python and uses the sportsreference package to obtain the basketball data. The project started with single game score predictions and developed into predicting scores for the entire day and comparing matchup totals to Vegas O/U totals. This project is on hold since NCAA canceled the tournament due to the COVID-19 outbreak. 
 
+- layout: top-middle
+  name: Financials Web Scraper
+  # link: github.com/bmorgan0921/MS-Financials-Webscraper
+  # github: sproogen/resume-theme
+  # quote: >
+  #   I started this project to make a competitive 
+  description: | # this will include new lines to allow paragraphs
+    This application will take in a stock ticker and return the financials from Morningstar's Financials page. It returns the last 10 years worth of data, forward filling the annual numbers that are reported, and has the optional parameters of start and end dates. 
+
+# - layout: top-middle
+#   name: Deep Learning Equity Performance Prediction project
+#   # link: 
+#   # github: sproogen/resume-theme
+#   # quote: >
+#   #   I started this project to make a competitive 
+#   description: | # this will include new lines to allow paragraphs
+#     I started this project to make a competitive March Madness tournament bracket. The project is developed entirely in Python and uses the sportsreference package to obtain the basketball data. The project started with single game score predictions and developed into predicting scores for the entire day and comparing matchup totals to Vegas O/U totals. This project is on hold since NCAA canceled the tournament due to the COVID-19 outbreak. 
