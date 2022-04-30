@@ -1,4 +1,17 @@
 - layout: left
+  company: Northern Trust
+  link: northerntrust.com
+  job_title: Senior Analyst, Risk Analytics
+  dates: August 2020 - Present
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    **Responsibilities:**
+    - Independently validate quantitative asset management and wealth management models; ensuring models implemented by the bank are in line with regulatory and company procedures
+    - Validation activities include but are not limited to scenario and stress testing, sensitivity analysis, and comparative analysis of alternative model methodologies
+    - Establish strong relationships with key stakeholders in asset and wealth management business; communicate validation results and key observations with stakeholders at conclusion of validation
+    
+- layout: left
   company: Talton Capital Management
   link: taltoncm.com
   job_title: Project Lab Research Intern
