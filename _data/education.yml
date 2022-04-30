@@ -1,4 +1,17 @@
 - layout: left
+  name: The University of Chicago Booth School of Business
+  dates: 2022-2024
+  qualification: Master of Business Administration
+  quote: >
+    The Chicago Approach to leadership provides a powerful, enduring framework for continuing to learn, grow, and succeed as a leader throughout your career. Influence and educate current and future leaders. This is a core tenet of our mission at Booth.
+  description: | # this will include new lines to allow paragraphs
+    Chicago Booth provides an environment where I am able to continue growing as a leader while rounding out my education in Economics and Strategy under world-renowned faculty. 
+    
+    **Concentrations:** Economics and Strategic Management
+
+    **Courses Completed:** Game Theory, Wealth of Nations, Power & Influence, Managerial Decision Modeling (Optimization)
+
+- layout: left
   name: The University of Chicago
   dates: 2018-2019
   qualification: MSc. Financial Mathematics
