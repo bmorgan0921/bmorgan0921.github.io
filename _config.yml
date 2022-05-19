@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Benjamin and this website will hopefully share a little bit more about me. I work at Northern Trust as a Senior Analyst in Risk Analytics and I am currently a candidate for my MBA from the University of Chicago Booth School of Business. I have received previous degrees from the University of Chicago in Financial Mathematics and Auburn University in Finance and Electrical Engineering. Below, you will find a detailed version of my résumé including my current and previous projects, professional experiences, education, and interests. 
 
-  I am most skilled in <mark>Python</mark> and <mark>Risk Management</mark> and I enjoy <mark>Problem Solving</mark> and <mark>Creative Thinking</mark>. 
+  I am most skilled in <mark>Quantitative Modeling</mark> in <mark>Python</mark> and <mark>Risk Management</mark> and I enjoy <mark>Problem Solving</mark> by leveraging my strength in <mark>Creative Thinking</mark>. 
 
 # Projects Section
 # projects_title: Projects
