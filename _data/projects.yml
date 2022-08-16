@@ -13,7 +13,7 @@
   # quote: >
   #   I started this project during the COVID-19 outbreak after sports disappeared. 
   description: | # this will include new lines to allow paragraphs
-    I started this project to better recommend songs on Spotify. The objective of this application is to use your listening history and machine learning techniques to make song recommendations. This project was developed using python and Spotify's API.  
+    I started this project to better recommend songs on Spotify. The objective of this application is to use your listening history and machine learning techniques to make song recommendations based on objective features of the songs. This project was developed using Python and Spotify's API.  
 
 
 - layout: top-middle
